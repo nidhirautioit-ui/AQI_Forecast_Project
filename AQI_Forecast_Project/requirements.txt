@@ -1,0 +1,17 @@
+# Core libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Time-series modeling
+statsmodels
+prophet
+
+# Model evaluation
+scikit-learn
+
+# Jupyter environment
+notebook
